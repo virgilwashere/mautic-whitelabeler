@@ -119,19 +119,19 @@
 											<small>This replaces "Mautic" in the page titles and footer.</small>
 											<input type="text" class="form-control" name="company_name" id="company-name" value="Mautic">
 										</div>
-										
+
 										<div class="form-group">
 											<label for="footer-prefix">Footer Prefix (optional)</label><br/>
 											<small>Displays after company name in the footer.</small>
 											<input type="text" class="form-control" name="footer_prefix" id="footer-prefix" value="All Rights Reserved.">
 										</div>
-										
+
 										<div class="form-group">
 											<label for="footer">Footer (Optional)</label><br/>
 											<small>Additional footer text or HTML to display after company name and footer prefix.</small>
 											<input type="text" class="form-control" name="footer" id="footer" value="">
 										</div>
-										
+
 									</div><!--basic-->
 									<div id="colors">
 										<h3>General Colors</h3>
@@ -360,7 +360,7 @@
 
 										<button id="save" class="btn btn-default">Save &nbsp;<i class="fa fa-spinner fa-spin fa-fw save-loading" style="display:none;"></i><i class="fa fa-floppy-o" aria-hidden="true"></i></button>
 										<button id="save-as" class="btn btn-default">Save As &nbsp;<i class="fa fa-spinner fa-spin fa-fw save-as-loading" style="display:none;"></i><i class="fa fa-floppy-o" aria-hidden="true"></i></button>
-										
+
 										<button id="whitelabel-now" type="submit" class="btn btn-default">Whitelabel &nbsp;<i class="fa fa-magic" aria-hidden="true"></i></button>
 
 										<div id="notification">
@@ -457,7 +457,7 @@
                     <h4 class="modal-title">Select a file from assets:</h4>
                 </div>
                 <div class="modal-body">
-                </div>            
+                </div>
             </div>
         </div>
     </div>

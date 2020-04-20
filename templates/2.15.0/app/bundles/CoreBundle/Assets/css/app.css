@@ -366,7 +366,7 @@ body > #app-wrapper {
   -moz-transition: all 0.3s ease;
   -ms-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
-  transition: all 0.3s ease; 
+  transition: all 0.3s ease;
 }
 .app-sidebar.sidebar-left .sidebar-header,
 .app-sidebar.sidebar-left .sidebar-footer {
@@ -4761,4 +4761,4 @@ div.alert-growl .close {
 
 div.alert-growl .close:hover {
     color: {{sidebar_link_hover}};
-}    
+}
